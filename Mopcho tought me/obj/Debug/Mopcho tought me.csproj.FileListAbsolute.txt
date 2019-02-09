@@ -1,0 +1,7 @@
+C:\Users\Pavel\source\repos\Mopcho tought me\Mopcho tought me\obj\Debug\Mopcho tought me.csprojAssemblyReference.cache
+C:\Users\Pavel\source\repos\Mopcho tought me\Mopcho tought me\obj\Debug\Mopcho tought me.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\Mopcho tought me\Mopcho tought me\bin\Debug\Mopcho tought me.exe.config
+C:\Users\Pavel\source\repos\Mopcho tought me\Mopcho tought me\bin\Debug\Mopcho tought me.exe
+C:\Users\Pavel\source\repos\Mopcho tought me\Mopcho tought me\bin\Debug\Mopcho tought me.pdb
+C:\Users\Pavel\source\repos\Mopcho tought me\Mopcho tought me\obj\Debug\Mopcho tought me.exe
+C:\Users\Pavel\source\repos\Mopcho tought me\Mopcho tought me\obj\Debug\Mopcho tought me.pdb
